@@ -14,3 +14,5 @@ Aplicação foi desenvolvida pelas seguintes tecnologias!
 
 
 * PostgreSQL 
+
+É site com funcionalidades básicas para cadastro de doadores.
